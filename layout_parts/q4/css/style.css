@@ -1,9 +1,8 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.q4 {
+.size__box {
   padding: 20px;
-  box-sizing: border-box;
   background-color: #ECF1F2;
 }
 
@@ -14,7 +13,7 @@
 }
 
 .contents:first-child {
-  margin-top: 0%;
+  margin-top: 0;
 }
 
 .space {

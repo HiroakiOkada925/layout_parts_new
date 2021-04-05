@@ -25,4 +25,10 @@
   margin-left: 20px;
   margin-bottom: 10px;
 }
+
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
 /* 回答はここに書いてね */
